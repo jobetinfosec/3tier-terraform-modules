@@ -1,2 +1,2 @@
-# 3tier-ecs-cluster
-Setup AWS ECS cluster with Terraform
+# 3tier-terraform-modules
+Setup 3-tier AWS VPC with Terraform
